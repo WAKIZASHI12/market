@@ -1,0 +1,1733 @@
+[
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "get_schema_view",
+        "importPath": "drf_yasg.views",
+        "description": "drf_yasg.views",
+        "isExtraImport": true,
+        "detail": "drf_yasg.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_schema_view",
+        "importPath": "drf_yasg.views",
+        "description": "drf_yasg.views",
+        "isExtraImport": true,
+        "detail": "drf_yasg.views",
+        "documentation": {}
+    },
+    {
+        "label": "openapi",
+        "importPath": "drf_yasg",
+        "description": "drf_yasg",
+        "isExtraImport": true,
+        "detail": "drf_yasg",
+        "documentation": {}
+    },
+    {
+        "label": "openapi",
+        "importPath": "drf_yasg",
+        "description": "drf_yasg",
+        "isExtraImport": true,
+        "detail": "drf_yasg",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "swagger_auto_schema",
+        "importPath": "drf_yasg.utils",
+        "description": "drf_yasg.utils",
+        "isExtraImport": true,
+        "detail": "drf_yasg.utils",
+        "documentation": {}
+    },
+    {
+        "label": "swagger_auto_schema",
+        "importPath": "drf_yasg.utils",
+        "description": "drf_yasg.utils",
+        "isExtraImport": true,
+        "detail": "drf_yasg.utils",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "django_resized.forms",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django_resized.forms",
+        "description": "django_resized.forms",
+        "detail": "django_resized.forms",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "mark_safe",
+        "importPath": "django.utils.safestring",
+        "description": "django.utils.safestring",
+        "isExtraImport": true,
+        "detail": "django.utils.safestring",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "isExtraImport": true,
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "apps.categories.models",
+        "description": "apps.categories.models",
+        "isExtraImport": true,
+        "detail": "apps.categories.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubCategory",
+        "importPath": "apps.categories.models",
+        "description": "apps.categories.models",
+        "isExtraImport": true,
+        "detail": "apps.categories.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "apps.categories.models",
+        "description": "apps.categories.models",
+        "isExtraImport": true,
+        "detail": "apps.categories.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubCategory",
+        "importPath": "apps.categories.models",
+        "description": "apps.categories.models",
+        "isExtraImport": true,
+        "detail": "apps.categories.models",
+        "documentation": {}
+    },
+    {
+        "label": "ResizedImageField",
+        "importPath": "django_resized",
+        "description": "django_resized",
+        "isExtraImport": true,
+        "detail": "django_resized",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "BasePermission",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "rest_framework.authtoken.models",
+        "description": "rest_framework.authtoken.models",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.models",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "rest_framework.authtoken.models",
+        "description": "rest_framework.authtoken.models",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.models",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "rest_framework.authtoken.models",
+        "description": "rest_framework.authtoken.models",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.models",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "rest_framework.authtoken.models",
+        "description": "rest_framework.authtoken.models",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.models",
+        "documentation": {}
+    },
+    {
+        "label": "pre_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "JWTAuthentication",
+        "importPath": "rest_framework_simplejwt.authentication",
+        "description": "rest_framework_simplejwt.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "rest_framework_simplejwt",
+        "description": "rest_framework_simplejwt",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenVerifyView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "absolute_import",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "beckend.apps.categories.migrations.0001_initial",
+        "description": "beckend.apps.categories.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=255, verbose_name='Название категории')),",
+        "detail": "beckend.apps.categories.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryAdmin",
+        "kind": 6,
+        "importPath": "beckend.apps.categories.admin",
+        "description": "beckend.apps.categories.admin",
+        "peekOfCode": "class CategoryAdmin(admin.ModelAdmin):\n    list_display = ('name',)\n    search_fields = ('name',)\nadmin.site.register(Category, CategoryAdmin)\nadmin.site.register(SubCategory, CategoryAdmin)",
+        "detail": "beckend.apps.categories.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CategoriesConfig",
+        "kind": 6,
+        "importPath": "beckend.apps.categories.apps",
+        "description": "beckend.apps.categories.apps",
+        "peekOfCode": "class CategoriesConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'apps.categories'",
+        "detail": "beckend.apps.categories.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "beckend.apps.categories.models",
+        "description": "beckend.apps.categories.models",
+        "peekOfCode": "class Category(models.Model):\n    \"\"\"\n    Модель для хранения информации о категориях продуктов.\n    Attributes:\n        name (str): Название категории.\n    \"\"\"\n    name = models.CharField(max_length=255, verbose_name=\"Название категории\")\n    \"\"\"\n        Возвращает строковое представление категории.\n        Returns:",
+        "detail": "beckend.apps.categories.models",
+        "documentation": {}
+    },
+    {
+        "label": "SubCategory",
+        "kind": 6,
+        "importPath": "beckend.apps.categories.models",
+        "description": "beckend.apps.categories.models",
+        "peekOfCode": "class SubCategory(models.Model):\n    \"\"\"\n    Модель для хранения информации о подкатегориях продуктов.\n    Attributes:\n        name (str): Название подкатегории.\n        category (Category): Категория, к которой относится подкатегория.\n    \"\"\"\n    name = models.CharField(max_length=255, verbose_name=\"Название подкатегории\")\n    category = models.ForeignKey(Category, related_name='subcategories', on_delete=models.CASCADE, verbose_name=\"Категория\")\n    def __str__(self):",
+        "detail": "beckend.apps.categories.models",
+        "documentation": {}
+    },
+    {
+        "label": "CategorySerializer",
+        "kind": 6,
+        "importPath": "beckend.apps.categories.serializers",
+        "description": "beckend.apps.categories.serializers",
+        "peekOfCode": "class CategorySerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Category\n        fields = ['id', 'name']\nclass SubCategorySerializer(serializers.ModelSerializer):\n    class Meta:\n        model = SubCategory\n        fields = ['id', 'name', 'category']",
+        "detail": "beckend.apps.categories.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SubCategorySerializer",
+        "kind": 6,
+        "importPath": "beckend.apps.categories.serializers",
+        "description": "beckend.apps.categories.serializers",
+        "peekOfCode": "class SubCategorySerializer(serializers.ModelSerializer):\n    class Meta:\n        model = SubCategory\n        fields = ['id', 'name', 'category']",
+        "detail": "beckend.apps.categories.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "beckend.apps.categories.urls",
+        "description": "beckend.apps.categories.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(r'categories', CategoryViewSet)\nrouter.register(r'subcategories', SubCategoryViewSet)\nschema_view = get_schema_view(\n    openapi.Info(\n        title=\"InstaShop API\",\n        default_version='v1',\n        description=\"API документация для проекта InstaShop\",\n        terms_of_service=\"https://www.google.com/policies/terms/\",\n        contact=openapi.Contact(email=\"contact@instashop.local\"),",
+        "detail": "beckend.apps.categories.urls",
+        "documentation": {}
+    },
+    {
+        "label": "schema_view",
+        "kind": 5,
+        "importPath": "beckend.apps.categories.urls",
+        "description": "beckend.apps.categories.urls",
+        "peekOfCode": "schema_view = get_schema_view(\n    openapi.Info(\n        title=\"InstaShop API\",\n        default_version='v1',\n        description=\"API документация для проекта InstaShop\",\n        terms_of_service=\"https://www.google.com/policies/terms/\",\n        contact=openapi.Contact(email=\"contact@instashop.local\"),\n        license=openapi.License(name=\"BSD License\"),\n    ),\n    public=True,",
+        "detail": "beckend.apps.categories.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "beckend.apps.categories.urls",
+        "description": "beckend.apps.categories.urls",
+        "peekOfCode": "urlpatterns = [\n    path('swagger/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),\n    path('redoc/', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),\n    path('', include(router.urls)),\n]",
+        "detail": "beckend.apps.categories.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryViewSet",
+        "kind": 6,
+        "importPath": "beckend.apps.categories.views",
+        "description": "beckend.apps.categories.views",
+        "peekOfCode": "class CategoryViewSet(viewsets.ModelViewSet):\n    queryset = Category.objects.all()\n    serializer_class = CategorySerializer\n    @swagger_auto_schema(\n        request_body=CategorySerializer,\n        responses={201: CategorySerializer},\n        operation_description=\"Создание новой категории\"\n    )\n    def create(self, request, *args, **kwargs):\n        serializer = self.get_serializer(data=request.data)",
+        "detail": "beckend.apps.categories.views",
+        "documentation": {}
+    },
+    {
+        "label": "SubCategoryViewSet",
+        "kind": 6,
+        "importPath": "beckend.apps.categories.views",
+        "description": "beckend.apps.categories.views",
+        "peekOfCode": "class SubCategoryViewSet(viewsets.ModelViewSet):\n    queryset = SubCategory.objects.all()\n    serializer_class = SubCategorySerializer\n    @swagger_auto_schema(\n        request_body=SubCategorySerializer,\n        responses={201: SubCategorySerializer},\n        operation_description=\"Создание новой подкатегории\"\n    )\n    def create(self, request, *args, **kwargs):\n        serializer = self.get_serializer(data=request.data)",
+        "detail": "beckend.apps.categories.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "beckend.apps.info.migrations.0001_initial",
+        "description": "beckend.apps.info.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Info',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=100)),",
+        "detail": "beckend.apps.info.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "InfoAdmin",
+        "kind": 6,
+        "importPath": "beckend.apps.info.admin",
+        "description": "beckend.apps.info.admin",
+        "peekOfCode": "class InfoAdmin(admin.ModelAdmin):\n    \"\"\"\n    Настройки админки для модели Info\n    \"\"\"\n    list_display = ('title',)  # Поля, отображаемые в списке объектов\n    search_fields = ('title',)  # Поля, по которым можно выполнять поиск\nadmin.site.register(Info, InfoAdmin)",
+        "detail": "beckend.apps.info.admin",
+        "documentation": {}
+    },
+    {
+        "label": "InfoConfig",
+        "kind": 6,
+        "importPath": "beckend.apps.info.apps",
+        "description": "beckend.apps.info.apps",
+        "peekOfCode": "class InfoConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'apps.info'",
+        "detail": "beckend.apps.info.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Info",
+        "kind": 6,
+        "importPath": "beckend.apps.info.models",
+        "description": "beckend.apps.info.models",
+        "peekOfCode": "class Info(models.Model):\n    title = models.CharField(max_length=100)\n    content = models.TextField()\n    \"\"\"\n        Возвращает строковое представление информации\n        return: str - заголовок информации\n        \"\"\"\n    def __str__(self):\n        return self.title",
+        "detail": "beckend.apps.info.models",
+        "documentation": {}
+    },
+    {
+        "label": "DynamicInfoSerializer",
+        "kind": 6,
+        "importPath": "beckend.apps.info.serializers",
+        "description": "beckend.apps.info.serializers",
+        "peekOfCode": "class DynamicInfoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Info\n        fields = ['id', 'title', 'content']",
+        "detail": "beckend.apps.info.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "beckend.apps.info.urls",
+        "description": "beckend.apps.info.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(r'info', DynamicInfoViewSet)\nurlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "beckend.apps.info.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "beckend.apps.info.urls",
+        "description": "beckend.apps.info.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "beckend.apps.info.urls",
+        "documentation": {}
+    },
+    {
+        "label": "DynamicInfoViewSet",
+        "kind": 6,
+        "importPath": "beckend.apps.info.views",
+        "description": "beckend.apps.info.views",
+        "peekOfCode": "class DynamicInfoViewSet(viewsets.ModelViewSet):\n    queryset = Info.objects.all()\n    serializer_class = DynamicInfoSerializer",
+        "detail": "beckend.apps.info.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "beckend.apps.products.migrations.0001_initial",
+        "description": "beckend.apps.products.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('categories', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ProductImage',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "beckend.apps.products.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "beckend.apps.products.migrations.0002_initial",
+        "description": "beckend.apps.products.migrations.0002_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('categories', '0001_initial'),\n        ('products', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='product',",
+        "detail": "beckend.apps.products.migrations.0002_initial",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImageInline",
+        "kind": 6,
+        "importPath": "beckend.apps.products.admin",
+        "description": "beckend.apps.products.admin",
+        "peekOfCode": "class ProductImageInline(admin.TabularInline):\n    model = ProductImage\n    extra = 3\n    can_delete = True \n@admin.register(Product)\nclass ProductAdmin(admin.ModelAdmin):\n    inlines = [ProductImageInline]\n    list_display = ('name', 'price', 'category', 'subcategory', 'instagram_link', 'whatsapp_link', 'seller', )\n    list_filter = ('category', 'subcategory')\n    search_fields = ('name', 'category__name', 'subcategory__name')",
+        "detail": "beckend.apps.products.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ProductAdmin",
+        "kind": 6,
+        "importPath": "beckend.apps.products.admin",
+        "description": "beckend.apps.products.admin",
+        "peekOfCode": "class ProductAdmin(admin.ModelAdmin):\n    inlines = [ProductImageInline]\n    list_display = ('name', 'price', 'category', 'subcategory', 'instagram_link', 'whatsapp_link', 'seller', )\n    list_filter = ('category', 'subcategory')\n    search_fields = ('name', 'category__name', 'subcategory__name')\n    # def view_images(self, obj):\n    #     images = obj.images.all()\n    #     if images:\n    #         return ', '.join([image.image.url for image in images[:3]])\n    #     return '-'",
+        "detail": "beckend.apps.products.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ProductsConfig",
+        "kind": 6,
+        "importPath": "beckend.apps.products.apps",
+        "description": "beckend.apps.products.apps",
+        "peekOfCode": "class ProductsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'apps.products'\n    verbose_name = 'products'\n    label = 'products'",
+        "detail": "beckend.apps.products.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "beckend.apps.products.models",
+        "description": "beckend.apps.products.models",
+        "peekOfCode": "class Product(models.Model):\n    \"\"\"\n    Модель для хранения информации о продуктах.\n    Attributes:\n        name (str): Название продукта.\n        price (float): Цена продукта.\n        category (ForeignKey(Category): Категория продукта.\n        subcategory (ForeignKey(SubCategory): Подкатегория продукта.\n        instagram_link (str): Ссылка на Instagram продукта.\n        whatsapp_link (str): Ссылка на WhatsApp продукта.",
+        "detail": "beckend.apps.products.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImage",
+        "kind": 6,
+        "importPath": "beckend.apps.products.models",
+        "description": "beckend.apps.products.models",
+        "peekOfCode": "class ProductImage(models.Model):\n    \"\"\"\n    Модель для хранения информации об изображениях продуктов.\n    Attributes:\n        product (Product): Продукт, к которому относится изображение.\n        image (ResizedImageField): Фотография продукта.\n    \"\"\"\n    product = models.ForeignKey(Product, related_name='images', on_delete=models.CASCADE, verbose_name=\"Продукт\")\n    image = ResizedImageField(\n        verbose_name=\"Фото\",",
+        "detail": "beckend.apps.products.models",
+        "documentation": {}
+    },
+    {
+        "label": "Shop",
+        "kind": 6,
+        "importPath": "beckend.apps.products.models",
+        "description": "beckend.apps.products.models",
+        "peekOfCode": "class Shop(models.Model):\n    \"\"\"\n    Модель магазина.\n    Attributes:\n        name (str): Название магазина.\n        owner (User): Владелец магазина.\n    \"\"\"\n    name = models.CharField(max_length=255, verbose_name=\"Название магазина\")\n    owner = models.OneToOneField(User, on_delete=models.CASCADE, related_name='shop', verbose_name=\"Владелец\")\n    def str(self):",
+        "detail": "beckend.apps.products.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImageSerializer",
+        "kind": 6,
+        "importPath": "beckend.apps.products.serializers",
+        "description": "beckend.apps.products.serializers",
+        "peekOfCode": "class ProductImageSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = ProductImage\n        fields = ['id', 'image', 'product']\nclass ProductSerializer(serializers.ModelSerializer):\n    images = ProductImageSerializer(many=True, read_only=True)  # Сериализатор для связанных изображений\n    category = serializers.SlugRelatedField(queryset=Category.objects.all(), slug_field='name')\n    subcategory = serializers.SlugRelatedField(queryset=SubCategory.objects.all(), slug_field='name')\n    seller = serializers.SlugRelatedField(queryset=User.objects.all(), slug_field='username')\n    class Meta:",
+        "detail": "beckend.apps.products.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSerializer",
+        "kind": 6,
+        "importPath": "beckend.apps.products.serializers",
+        "description": "beckend.apps.products.serializers",
+        "peekOfCode": "class ProductSerializer(serializers.ModelSerializer):\n    images = ProductImageSerializer(many=True, read_only=True)  # Сериализатор для связанных изображений\n    category = serializers.SlugRelatedField(queryset=Category.objects.all(), slug_field='name')\n    subcategory = serializers.SlugRelatedField(queryset=SubCategory.objects.all(), slug_field='name')\n    seller = serializers.SlugRelatedField(queryset=User.objects.all(), slug_field='username')\n    class Meta:\n        model = Product\n        fields = [\n            'id',\n            'name',",
+        "detail": "beckend.apps.products.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "beckend.apps.products.urls",
+        "description": "beckend.apps.products.urls",
+        "peekOfCode": "router = DefaultRouter()  # Создаем маршрутизатор по умолчанию\nrouter.register(r'products', ProductViewSet,basename='product')  # Регистрируем ProductViewSet с маршрутом 'products'\nurlpatterns = router.urls  # Получаем URL-ы маршрутизатора",
+        "detail": "beckend.apps.products.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "beckend.apps.products.urls",
+        "description": "beckend.apps.products.urls",
+        "peekOfCode": "urlpatterns = router.urls  # Получаем URL-ы маршрутизатора",
+        "detail": "beckend.apps.products.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ProductViewSet",
+        "kind": 6,
+        "importPath": "beckend.apps.products.views",
+        "description": "beckend.apps.products.views",
+        "peekOfCode": "class ProductViewSet(viewsets.ModelViewSet):\n    queryset = Product.objects.all()\n    serializer_class = ProductSerializer\n    @swagger_auto_schema(\n        request_body=ProductSerializer,\n        responses={201: ProductSerializer},\n        operation_description=\"Создание нового продукта\"\n    )\n    def create(self, request, *args, **kwargs):\n        \"\"\"",
+        "detail": "beckend.apps.products.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "beckend.apps.users.migrations.0001_initial",
+        "description": "beckend.apps.users.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "beckend.apps.users.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "beckend.apps.users.migrations.0002_alter_expiringtoken_options_and_more",
+        "description": "beckend.apps.users.migrations.0002_alter_expiringtoken_options_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('authtoken', '0004_alter_tokenproxy_options'),\n        ('users', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='expiringtoken',\n            options={},\n        ),",
+        "detail": "beckend.apps.users.migrations.0002_alter_expiringtoken_options_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "kind": 6,
+        "importPath": "beckend.apps.users.admin",
+        "description": "beckend.apps.users.admin",
+        "peekOfCode": "class UserAdmin(admin.ModelAdmin):\n    \"\"\"\n    Админка для модели User\n    \"\"\"\n    list_display = ('username', 'email', 'is_seller', 'is_user')\n    search_fields = ('username', 'email')\n    list_filter = ('is_seller', 'is_user')\n    ordering = ('username',)\n@admin.register(Comment)\nclass CommentAdmin(admin.ModelAdmin):",
+        "detail": "beckend.apps.users.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CommentAdmin",
+        "kind": 6,
+        "importPath": "beckend.apps.users.admin",
+        "description": "beckend.apps.users.admin",
+        "peekOfCode": "class CommentAdmin(admin.ModelAdmin):\n    \"\"\"\n    Админка для модели Comment\n    \"\"\"\n    list_display = ('user', 'content', 'created_at')\n    search_fields = ('content',)\n    list_filter = ('created_at',)\n    ordering = ('-created_at',)",
+        "detail": "beckend.apps.users.admin",
+        "documentation": {}
+    },
+    {
+        "label": "UsersConfig",
+        "kind": 6,
+        "importPath": "beckend.apps.users.apps",
+        "description": "beckend.apps.users.apps",
+        "peekOfCode": "class UsersConfig(AppConfig):\n    name = 'apps.users'\n    def ready(self):\n        import apps.users.signals",
+        "detail": "beckend.apps.users.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ExpiringToken",
+        "kind": 6,
+        "importPath": "beckend.apps.users.models",
+        "description": "beckend.apps.users.models",
+        "peekOfCode": "class ExpiringToken(Token):\n    last_used = models.DateTimeField(auto_now=True)\n    @classmethod\n    def delete_expired_tokens(cls):\n        expiry_time = timezone.now() - timezone.timedelta(hours=72)\n        cls.objects.filter(last_used__lt=expiry_time).delete()\nclass User(AbstractUser):\n    \"\"\"\n    Поля для роли пользователя\n    \"\"\"",
+        "detail": "beckend.apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "beckend.apps.users.models",
+        "description": "beckend.apps.users.models",
+        "peekOfCode": "class User(AbstractUser):\n    \"\"\"\n    Поля для роли пользователя\n    \"\"\"\n    is_seller = models.BooleanField(default=False)\n    is_user = models.BooleanField(default=True)\n    \"\"\"\n    Переопределение полей групп и разрешений с related_name, чтобы избежать конфликтов\n    \"\"\"\n    groups = models.ManyToManyField(",
+        "detail": "beckend.apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "kind": 6,
+        "importPath": "beckend.apps.users.models",
+        "description": "beckend.apps.users.models",
+        "peekOfCode": "class Comment(models.Model):\n    \"\"\"\n    Модель комментария с полем связи с пользователем\n    \"\"\"\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    content = models.TextField()\n    created_at = models.DateTimeField(auto_now_add=True)",
+        "detail": "beckend.apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "IsSeller",
+        "kind": 6,
+        "importPath": "beckend.apps.users.permissions",
+        "description": "beckend.apps.users.permissions",
+        "peekOfCode": "class IsSeller(BasePermission):\n    \"\"\"\n    Разрешение, позволяющее доступ только пользователям с ролью продавца.\n    \"\"\"\n    def has_permission(self, request, view):\n        return request.user and request.user.is_authenticated and request.user.is_seller\nclass IsUser(BasePermission):\n    \"\"\"\n    Разрешение, позволяющее доступ только пользователям с ролью пользователя.\n    \"\"\"",
+        "detail": "beckend.apps.users.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsUser",
+        "kind": 6,
+        "importPath": "beckend.apps.users.permissions",
+        "description": "beckend.apps.users.permissions",
+        "peekOfCode": "class IsUser(BasePermission):\n    \"\"\"\n    Разрешение, позволяющее доступ только пользователям с ролью пользователя.\n    \"\"\"\n    def has_permission(self, request, view):\n        return request.user and request.user.is_authenticated and request.user.is_user",
+        "detail": "beckend.apps.users.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreateSerializer",
+        "kind": 6,
+        "importPath": "beckend.apps.users.serializers",
+        "description": "beckend.apps.users.serializers",
+        "peekOfCode": "class UserCreateSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Сериализатор для создания пользователя\n    \"\"\"\n    class Meta:\n        model = User\n        fields = ['id', 'username', 'email', 'password', 'is_seller', 'is_user']\n        extra_kwargs = {'password': {'write_only': True}}\n    def create(self, validated_data):\n        \"\"\"",
+        "detail": "beckend.apps.users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CommentSerializer",
+        "kind": 6,
+        "importPath": "beckend.apps.users.serializers",
+        "description": "beckend.apps.users.serializers",
+        "peekOfCode": "class CommentSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Сериализатор для модели комментариев\n    \"\"\"\n    class Meta:\n        model = Comment\n        fields = ['id', 'content', 'created_at', 'user']\n        read_only_fields = ['user']\nclass LoginSerializer(serializers.Serializer):\n    email = serializers.EmailField()",
+        "detail": "beckend.apps.users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "LoginSerializer",
+        "kind": 6,
+        "importPath": "beckend.apps.users.serializers",
+        "description": "beckend.apps.users.serializers",
+        "peekOfCode": "class LoginSerializer(serializers.Serializer):\n    email = serializers.EmailField()\n    password = serializers.CharField(write_only=True)\n    def validate(self, attrs):\n        \"\"\"\n        Валидация данных для входа\n        \"\"\"\n        user = authenticate(**attrs)\n        if user and user.is_active:\n            return {'user': user}",
+        "detail": "beckend.apps.users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "update_last_used",
+        "kind": 2,
+        "importPath": "beckend.apps.users.serializers",
+        "description": "beckend.apps.users.serializers",
+        "peekOfCode": "def update_last_used(sender, instance, **kwargs):\n    if instance.pk is not None:\n        instance.last_used = timezone.now()\nclass UserCreateSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Сериализатор для создания пользователя\n    \"\"\"\n    class Meta:\n        model = User\n        fields = ['id', 'username', 'email', 'password', 'is_seller', 'is_user']",
+        "detail": "beckend.apps.users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "update_token_last_used",
+        "kind": 2,
+        "importPath": "beckend.apps.users.signals",
+        "description": "beckend.apps.users.signals",
+        "peekOfCode": "def update_token_last_used(sender, instance, **kwargs):\n    \"\"\"Обновляет время последнего использования токена при каждом сохранении.\"\"\"\n    # Проверяем, что токен действительно был изменен\n    if not kwargs.get('created', False):  # Токен не был только что создан\n        # Обновляем время последнего использования, если оно изменилось\n        if instance.pk:  # Проверяем, что токен уже существует\n            instance.last_used = timezone.now()\n            instance.save(update_fields=['last_used'])",
+        "detail": "beckend.apps.users.signals",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "beckend.apps.users.urls",
+        "description": "beckend.apps.users.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(r'users', UserViewSet, basename='user')\nurlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "beckend.apps.users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "beckend.apps.users.urls",
+        "description": "beckend.apps.users.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n]",
+        "detail": "beckend.apps.users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserViewSet",
+        "kind": 6,
+        "importPath": "beckend.apps.users.views",
+        "description": "beckend.apps.users.views",
+        "peekOfCode": "class UserViewSet(viewsets.ModelViewSet):\n    \"\"\"\n    Viewset for user management\n    \"\"\"\n    queryset = User.objects.all()\n    serializer_class = UserCreateSerializer\n    def get_permissions(self):\n        \"\"\"\n        Override permission classes based on action\n        \"\"\"",
+        "detail": "beckend.apps.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "beckend.core.asgi",
+        "description": "beckend.core.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "beckend.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-=2+lvw8+w@6xmg9cv&wabs78xv+hp!s4zp05kn%r9x=u31_o(1'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = os.getenv('DJANGO_DEBUG', 'False') == 'True'\nALLOWED_HOSTS = os.getenv('DJANGO_ALLOWED_HOSTS', '').split(',')\nAPI_TOKEN = os.getenv('API_TOKEN')\n# Application definition",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-=2+lvw8+w@6xmg9cv&wabs78xv+hp!s4zp05kn%r9x=u31_o(1'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = os.getenv('DJANGO_DEBUG', 'False') == 'True'\nALLOWED_HOSTS = os.getenv('DJANGO_ALLOWED_HOSTS', '').split(',')\nAPI_TOKEN = os.getenv('API_TOKEN')\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-=2+lvw8+w@6xmg9cv&wabs78xv+hp!s4zp05kn%r9x=u31_o(1'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = os.getenv('DJANGO_DEBUG', 'False') == 'True'\nALLOWED_HOSTS = os.getenv('DJANGO_ALLOWED_HOSTS', '').split(',')\nAPI_TOKEN = os.getenv('API_TOKEN')\n# Application definition\nINSTALLED_APPS = [\n    'apps.categories',",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-=2+lvw8+w@6xmg9cv&wabs78xv+hp!s4zp05kn%r9x=u31_o(1'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = os.getenv('DJANGO_DEBUG', 'False') == 'True'\nALLOWED_HOSTS = os.getenv('DJANGO_ALLOWED_HOSTS', '').split(',')\nAPI_TOKEN = os.getenv('API_TOKEN')\n# Application definition\nINSTALLED_APPS = [\n    'apps.categories',\n    'apps.products',\n    'apps.info',",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "DEBUG = os.getenv('DJANGO_DEBUG', 'False') == 'True'\nALLOWED_HOSTS = os.getenv('DJANGO_ALLOWED_HOSTS', '').split(',')\nAPI_TOKEN = os.getenv('API_TOKEN')\n# Application definition\nINSTALLED_APPS = [\n    'apps.categories',\n    'apps.products',\n    'apps.info',\n    'apps.users',\n    'django.contrib.admin',",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "ALLOWED_HOSTS = os.getenv('DJANGO_ALLOWED_HOSTS', '').split(',')\nAPI_TOKEN = os.getenv('API_TOKEN')\n# Application definition\nINSTALLED_APPS = [\n    'apps.categories',\n    'apps.products',\n    'apps.info',\n    'apps.users',\n    'django.contrib.admin',\n    'django.contrib.auth',",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "API_TOKEN",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "API_TOKEN = os.getenv('API_TOKEN')\n# Application definition\nINSTALLED_APPS = [\n    'apps.categories',\n    'apps.products',\n    'apps.info',\n    'apps.users',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'apps.categories',\n    'apps.products',\n    'apps.info',\n    'apps.users',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'core.urls'",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "ROOT_URLCONF = 'core.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'core.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n           'ENGINE': os.getenv('ENGINE'),\n        'NAME': os.getenv('NAME'),\n        'USER': os.getenv('USER'),\n        'PASSWORD': os.getenv('PASSWORD'),\n        'HOST': os.getenv('HOST'),",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n           'ENGINE': os.getenv('ENGINE'),\n        'NAME': os.getenv('NAME'),\n        'USER': os.getenv('USER'),\n        'PASSWORD': os.getenv('PASSWORD'),\n        'HOST': os.getenv('HOST'),\n        'PORT': os.getenv('PORT'),\n    }\n}",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.BasicAuthentication',\n        'rest_framework_simplejwt.authentication.JWTAuthentication'\n    ],\n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n}\nDJOSER = {",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DJOSER",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "DJOSER = {\n    'LOGIN_FIELD': 'username',   # Вход через имя или email\n    'USERNAME_FIELD': 'username',\n    'EMAIL_FIELD': 'email',# Используем username по умолчанию\n    'USERNAME_CHANGED_EMAIL_CONFIRMATION': True,\n    'SEND_ACTIVATION_EMAIL': True,\n    'ACTIVATION_URL': 'activate/{uid}/{token}',\n    'TOKEN_MODEL': 'rest_framework.authtoken.models.Token',  # Используем Token из rest_framework.authtoken\n}\nACTIVATION_URL = 'activate/{uid}/{token}'",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ACTIVATION_URL",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "ACTIVATION_URL = 'activate/{uid}/{token}'\n# Настройки SIMPLE_JWT\nSIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=5),\n    \"REFRESH_TOKEN_LIFETIME\": timedelta(days=1),\n    \"ROTATE_REFRESH_TOKENS\": False,\n    \"BLACKLIST_AFTER_ROTATION\": False,\n    \"UPDATE_LAST_LOGIN\": False,\n    \"AUTH_HEADER_TYPES\": (\"Bearer\",),\n    \"AUTH_HEADER_NAME\": \"HTTP_AUTHORIZATION\",",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=5),\n    \"REFRESH_TOKEN_LIFETIME\": timedelta(days=1),\n    \"ROTATE_REFRESH_TOKENS\": False,\n    \"BLACKLIST_AFTER_ROTATION\": False,\n    \"UPDATE_LAST_LOGIN\": False,\n    \"AUTH_HEADER_TYPES\": (\"Bearer\",),\n    \"AUTH_HEADER_NAME\": \"HTTP_AUTHORIZATION\",\n    \"USER_ID_FIELD\": \"id\",\n    \"USER_ID_CLAIM\": \"user_id\",",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'ru'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCELERY_BROKER_URL = 'redis://localhost:6379/0'",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "USE_TZ = True\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCELERY_BROKER_URL = 'redis://localhost:6379/0'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379/0'",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCELERY_BROKER_URL = 'redis://localhost:6379/0'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379/0'\nCELERY_BEAT_SCHEDULE = {",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCELERY_BROKER_URL = 'redis://localhost:6379/0'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379/0'\nCELERY_BEAT_SCHEDULE = {\n    'delete-expired-tokens': {\n        'task': 'apps.users.tasks.delete_expired_tokens',\n        'schedule': 3600.0,  ",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCELERY_BROKER_URL = 'redis://localhost:6379/0'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379/0'\nCELERY_BEAT_SCHEDULE = {\n    'delete-expired-tokens': {\n        'task': 'apps.users.tasks.delete_expired_tokens',\n        'schedule': 3600.0,  \n    },\n}\nAUTH_USER_MODEL = 'users.User'",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BROKER_URL",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "CELERY_BROKER_URL = 'redis://localhost:6379/0'\nCELERY_RESULT_BACKEND = 'redis://localhost:6379/0'\nCELERY_BEAT_SCHEDULE = {\n    'delete-expired-tokens': {\n        'task': 'apps.users.tasks.delete_expired_tokens',\n        'schedule': 3600.0,  \n    },\n}\nAUTH_USER_MODEL = 'users.User'",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_BACKEND",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "CELERY_RESULT_BACKEND = 'redis://localhost:6379/0'\nCELERY_BEAT_SCHEDULE = {\n    'delete-expired-tokens': {\n        'task': 'apps.users.tasks.delete_expired_tokens',\n        'schedule': 3600.0,  \n    },\n}\nAUTH_USER_MODEL = 'users.User'",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BEAT_SCHEDULE",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "CELERY_BEAT_SCHEDULE = {\n    'delete-expired-tokens': {\n        'task': 'apps.users.tasks.delete_expired_tokens',\n        'schedule': 3600.0,  \n    },\n}\nAUTH_USER_MODEL = 'users.User'",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "beckend.core.settings",
+        "description": "beckend.core.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'users.User'",
+        "detail": "beckend.core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "schema_view",
+        "kind": 5,
+        "importPath": "beckend.core.swagger",
+        "description": "beckend.core.swagger",
+        "peekOfCode": "schema_view = get_schema_view(\n    openapi.Info(\n        title=\"Instashop API\",\n        default_version='v1',\n        description=\"API documentation for Instashop\",\n        terms_of_service=\"https://www.example.com/policies/terms/\",\n        contact=openapi.Contact(email=\"contact@example.com\"),\n        license=openapi.License(name=\"MIT License\"),\n    ),\n    public=True,",
+        "detail": "beckend.core.swagger",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "beckend.core.urls",
+        "description": "beckend.core.urls",
+        "peekOfCode": "urlpatterns = [\n    # Admin URLs\n    path('admin/', admin.site.urls),\n    # API URLs\n    path('api/', include([\n        # Product URLs\n        path('product/', include('apps.products.urls')),\n        # Category URLs\n        path('category/', include('apps.categories.urls')),\n        # Info URLs",
+        "detail": "beckend.core.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "beckend.core.wsgi",
+        "description": "beckend.core.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "beckend.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "debug_task",
+        "kind": 2,
+        "importPath": "beckend.celery",
+        "description": "beckend.celery",
+        "peekOfCode": "def debug_task(self):\n    print(f'Request: {self.request!r}')",
+        "detail": "beckend.celery",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "beckend.celery",
+        "description": "beckend.celery",
+        "peekOfCode": "app = Celery('your_project')\napp.config_from_object('django.conf:settings', namespace='CELERY')\napp.autodiscover_tasks()\n@app.task(bind=True)\ndef debug_task(self):\n    print(f'Request: {self.request!r}')",
+        "detail": "beckend.celery",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "beckend.manage",
+        "description": "beckend.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'core.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "beckend.manage",
+        "documentation": {}
+    },
+    {
+        "label": "login_url",
+        "kind": 5,
+        "importPath": "beckend.sr",
+        "description": "beckend.sr",
+        "peekOfCode": "login_url = 'http://127.0.0.1:8000/api/auth/jwt/create/'  # Используем JWT URL\n# Данные для логина\nlogin_data = {\n    'email': 'admin@gmail.com',  # Замените на реальный email\n    'password': 'admin'\n}\n# Выполняем POST-запрос для логина\nlogin_response = requests.post(login_url, json=login_data)\nif login_response.status_code == 200:\n    tokens = login_response.json()",
+        "detail": "beckend.sr",
+        "documentation": {}
+    },
+    {
+        "label": "login_data",
+        "kind": 5,
+        "importPath": "beckend.sr",
+        "description": "beckend.sr",
+        "peekOfCode": "login_data = {\n    'email': 'admin@gmail.com',  # Замените на реальный email\n    'password': 'admin'\n}\n# Выполняем POST-запрос для логина\nlogin_response = requests.post(login_url, json=login_data)\nif login_response.status_code == 200:\n    tokens = login_response.json()\n    print(\"Login Response:\", tokens)\n    access_token = tokens.get('access')",
+        "detail": "beckend.sr",
+        "documentation": {}
+    },
+    {
+        "label": "login_response",
+        "kind": 5,
+        "importPath": "beckend.sr",
+        "description": "beckend.sr",
+        "peekOfCode": "login_response = requests.post(login_url, json=login_data)\nif login_response.status_code == 200:\n    tokens = login_response.json()\n    print(\"Login Response:\", tokens)\n    access_token = tokens.get('access')\n    if access_token:\n        # URL для доступа к защищенному ресурсу\n        protected_url = 'http://127.0.0.1:8000/api/user/'\n        # Заголовки с токеном аутентификации\n        headers = {",
+        "detail": "beckend.sr",
+        "documentation": {}
+    }
+]
